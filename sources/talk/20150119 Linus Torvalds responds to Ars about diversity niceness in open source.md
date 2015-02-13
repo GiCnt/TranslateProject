@@ -1,3 +1,4 @@
+translating by GiCnt
 Linus Torvalds responds to Ars about diversity, niceness in open source
 ================================================================================
 > Acknowledges diversity factors, says "we're different in so many other ways."
